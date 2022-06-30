@@ -1,0 +1,16 @@
+C:\Users\msps.intern.1\source\repos\movie\PokeApp\obj\Debug\netcoreapp3.1\MovieApp.csproj.AssemblyReference.cache
+C:\Users\msps.intern.1\source\repos\movie\PokeApp\obj\Debug\netcoreapp3.1\MovieApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msps.intern.1\source\repos\movie\PokeApp\obj\Debug\netcoreapp3.1\MovieApp.AssemblyInfoInputs.cache
+C:\Users\msps.intern.1\source\repos\movie\PokeApp\obj\Debug\netcoreapp3.1\MovieApp.AssemblyInfo.cs
+C:\Users\msps.intern.1\source\repos\movie\PokeApp\obj\Debug\netcoreapp3.1\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\msps.intern.1\source\repos\movie\PokeApp\bin\Debug\netcoreapp3.1\MovieApp.exe
+C:\Users\msps.intern.1\source\repos\movie\PokeApp\bin\Debug\netcoreapp3.1\MovieApp.deps.json
+C:\Users\msps.intern.1\source\repos\movie\PokeApp\bin\Debug\netcoreapp3.1\MovieApp.runtimeconfig.json
+C:\Users\msps.intern.1\source\repos\movie\PokeApp\bin\Debug\netcoreapp3.1\MovieApp.runtimeconfig.dev.json
+C:\Users\msps.intern.1\source\repos\movie\PokeApp\bin\Debug\netcoreapp3.1\MovieApp.dll
+C:\Users\msps.intern.1\source\repos\movie\PokeApp\bin\Debug\netcoreapp3.1\MovieApp.pdb
+C:\Users\msps.intern.1\source\repos\movie\PokeApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\msps.intern.1\source\repos\movie\PokeApp\obj\Debug\netcoreapp3.1\MovieApp.csproj.CopyComplete
+C:\Users\msps.intern.1\source\repos\movie\PokeApp\obj\Debug\netcoreapp3.1\MovieApp.dll
+C:\Users\msps.intern.1\source\repos\movie\PokeApp\obj\Debug\netcoreapp3.1\MovieApp.pdb
+C:\Users\msps.intern.1\source\repos\movie\PokeApp\obj\Debug\netcoreapp3.1\MovieApp.genruntimeconfig.cache
